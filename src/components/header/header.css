@@ -1,0 +1,195 @@
+.main-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 24px 48px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: transparent;
+  z-index: 10;
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.logo {
+  height: 60px;
+  object-fit: contain;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+.nav-links a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 600;
+  position: relative;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #00ffd5;
+}
+
+.right-section .client-button {
+  padding: 12px 28px;
+  background-color: #00ffd5;
+  color: #1e1f22;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.right-section .client-button:hover {
+  background-color: #00c3ff;
+}
+
+/* New styles for header */
+.right-section {
+  display: flex;
+  gap: 20px;
+}
+
+.right-section .billing-button {
+  padding: 12px 28px;
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #00ffd5;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.right-section .billing-button:hover {
+  background-color: #00ffd5;
+  color: #1e1f22;
+}
+
+
+/* Hamburger icon */
+.hamburger {
+  display: none;
+  cursor: pointer;
+  z-index: 20;
+  color: #ffffff;
+}
+
+/* Mobile menu */
+.mobile-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #1e1f22;
+  padding: 24px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  z-index: 15;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  animation: slideDown 0.3s ease-in-out;
+}
+
+/* Nav section */
+.mobile-nav-links {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 12px;
+}
+
+.mobile-nav-links a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: color 0.3s;
+}
+
+.mobile-nav-links a:hover {
+  color: #00ffd5;
+}
+
+/* Button section */
+.mobile-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.mobile-buttons .billing-button,
+.mobile-buttons .client-button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+  border: none;
+}
+
+.mobile-buttons .billing-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #00ffd5;
+}
+
+.mobile-buttons .billing-button:hover {
+  background-color: #00ffd5;
+  color: #1e1f22;
+}
+
+.mobile-buttons .client-button {
+  background-color: #00ffd5;
+  color: #1e1f22;
+}
+
+.mobile-buttons .client-button:hover {
+  background-color: #00c3ff;
+}
+
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .right-section > a,
+  .right-section > button {
+    display: none;
+  }
+
+  .hamburger {
+    display: block;
+  }
+}
+
+
+/* Slide animation */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38a00623.css",
+    "main.js": "/static/js/main.272cd23e.js",
+    "static/media/minecraft-bg.jpg": "/static/media/minecraft-bg.7a5207e5555f93bba041.jpg",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.62579cd80edf6c403b52.jpg",
+    "static/media/rust-bg.jpg": "/static/media/rust-bg.62579cd80edf6c403b52.jpg",
+    "static/media/palworld-bg2.jpg": "/static/media/palworld-bg2.319791326eac2ba9193c.jpg",
+    "static/media/ark-bg.jpg": "/static/media/ark-bg.d0d92136635dfb18b5ed.jpg",
+    "static/media/fivem-bg.jpg": "/static/media/fivem-bg.f944740798547634fed9.jpg",
+    "static/media/ark-cover.jpg": "/static/media/ark-cover.fbb40cfe9d3be6b66ffa.jpg",
+    "static/media/ark-logo.jpg": "/static/media/ark-logo.fbb40cfe9d3be6b66ffa.jpg",
+    "static/media/palworld-bg.jpg": "/static/media/palworld-bg.2bbe5caea27af295a609.jpg",
+    "static/media/UpSurgeLogo.jpg": "/static/media/UpSurgeLogo.be606d366875c56fe331.jpg",
+    "static/media/fivem-logo.jpg": "/static/media/fivem-logo.87468e63ef3e7951efc3.jpg",
+    "static/media/palworld-cover.jpg": "/static/media/palworld-cover.e352c7c551c66829f4f2.jpg",
+    "static/media/palworld-logo.jpg": "/static/media/palworld-logo.e352c7c551c66829f4f2.jpg",
+    "static/media/minecraft-cover.jpg": "/static/media/minecraft-cover.464cb84b496461ac3451.jpg",
+    "static/media/minecraft-logo.jpg": "/static/media/minecraft-logo.464cb84b496461ac3451.jpg",
+    "index.html": "/index.html",
+    "main.38a00623.css.map": "/static/css/main.38a00623.css.map",
+    "main.272cd23e.js.map": "/static/js/main.272cd23e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a00623.css",
+    "static/js/main.272cd23e.js"
+  ]
+}

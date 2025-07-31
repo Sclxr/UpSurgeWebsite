@@ -1,0 +1,194 @@
+[
+{
+    "name": "7 Days To Die",
+    "cover": "game-covers/7DaysToDie.jpg",
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/7-days-to-die"
+  },
+  {
+    "name": "ARK: Survival Ascended",
+    "cover": "game-covers/ark-survival-ascended.jpg",
+    "price": "4.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/ark-survival-ascended"         
+  },
+   {
+    "name": "ARK: Survival Evolved",
+    "cover": "game-covers/ark-survival-evolved.jpg",
+    "price": "4.99",         
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/ark-survival-evolved"
+  },
+  {
+    "name": "Arma 2",
+    "cover": "game-covers/Arma-2-cover.jpg",
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/arma-2"
+  },
+    {
+    "name": "Arma 3",
+    "cover": "game-covers/Arma-3-cover.jpg",
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/arma-3"
+  },
+  {
+    "name": "Arma Reforger",
+    "cover": "game-covers/Arma-Reforger.jpg", 
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/arma-reforger"
+  },
+  {
+    "name": "American Truck Simulator",
+    "cover": "game-covers/American-Truck-Simulator-Cover.jpg",
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/american-truck-simulator"
+  },
+  {
+    "name": "Battlefield 2 Non Ranked",
+    "cover": "game-covers/battlefield-2-cover.jpg",
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/battlefield-2-non-ranked"
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 3",
+    "cover": "game-covers/Modern-Warfare-3-cover.jpg",
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/call-of-duty-modern-warfare-3"
+  },
+  {
+    "name": "Call of Duty : Modern Warfare 4",
+    "cover": "game-covers/Modern-Warfare-4-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/call-of-duty-modern-warfare-4"
+  },
+  {
+    "name": "Call of Duty : World at War",
+    "cover": "game-covers/World-at-War-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/call-of-duty-world-at-war"
+  },
+  {
+    "name": "Conan Exiles",
+    "cover": "game-covers/Conan-Exiles-cover.jpg",
+    "price": "11.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/conan-exiles"
+  },
+  {
+    "name": "Counter Strike 2",
+    "cover": "game-covers/Counter-Strike-2-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/counter-strike-2"
+  },
+  {
+    "name": "Counter Strike: Global Offensive",
+    "cover": "game-covers/Counter-Strike-Global-Offensive-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/counter-strike-global-offensive"
+  },
+  {
+    "name": "Counter Stike: Source",
+    "cover": "game-covers/Counter-Strike-Source-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/counter-strike-source"
+
+  },
+  {
+    "name": "DayZ",
+    "cover": "game-covers/DayZ-Standalone-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/dayz-stand-alone"
+  },
+  {
+    "name": "ECO",
+    "cover": "game-covers/ECO-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/eco"
+  },
+  {
+    "name": "F.E.A.R",
+    "cover": "game-covers/F.E.A.R-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/fear"
+  },
+   {
+    "name": "FiveM",
+    "cover": "game-covers/fivem-cover.jpg",
+    "price": "4.99"
+  },
+  {
+    "name": "Garry's Mod",
+    "cover": "game-covers/Garrys-Mod-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/garrys-mod"
+  },
+  {
+    "name": "Icarus",
+    "cover": "game-covers/Icarus-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/icarus"
+  },
+  {
+    "name": "Insurgency Sandstorm",
+    "cover": "game-covers/Insurgency-Sandstorm-Cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/insurgency-sandstorm"
+  },
+  {
+    "name": "Killing Floor",
+    "cover": "game-covers/Killing-Floor-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/killing-floor"
+  },
+  {
+    "name": "Killing Floor 2",
+    "cover": "game-covers/Killing-Floor-2-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/killing-floor-2"
+  },
+  {
+    "name": "Left 4 Dead",
+    "cover": "game-covers/Left-4-Dead-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/left-4-dead"
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "cover": "game-covers/Left-4-Dead-2-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/left-4-dead-2"
+  },
+  {
+    "name": "Minecraft Java Edition",
+    "cover": "game-covers/minecraft-java-cover.jpg",
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/minecraft-java-edition"
+  },
+    {
+    "name": "Minecraft Bedrock Edition",
+    "cover": "game-covers/minecraft-Bedrock-cover.jpg",
+    "price": "3.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/minecraft-java-edition"
+  },
+  {
+    "name": "Palworld",
+    "cover": "game-covers/palworld-cover.jpg",
+    "price": "4.99",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/palword"
+  },
+  {
+    "name": "Project Zomboid",
+    "cover": "game-covers/project-zomboid-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/project-zomboid"
+  },
+  {
+    "name": "Rust",
+    "cover": "game-covers/rust-cover.jpg",
+    "price": "12.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/rust"
+  },
+  {
+    "name": "Satisfactory",
+    "cover": "game-covers/Satisfactory-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/satisfactory"
+  }
+]
