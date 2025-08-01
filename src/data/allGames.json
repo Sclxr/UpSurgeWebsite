@@ -190,5 +190,71 @@
     "cover": "game-covers/Satisfactory-cover.jpg",
     "price": "4.00",
     "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/satisfactory"
+  },
+  {
+    "name": "Scum",
+    "cover":"game-covers/scum-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/scum"
+  },
+  {
+    "name": "Sniper Elite V2",
+    "cover": "game-covers/sniper-elite-v2-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/sniper-elite-v2"
+  },
+  {
+    "name": "Soul Mask",
+    "cover": "game-covers/soul-mask-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/soulmask"
+  },
+  {
+    "name": "Star Wars: Jedi Academy",
+    "cover": "game-covers/jedi-academy.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/star-wars-jedi-academy"
+  },
+  {
+    "name": "Sunkenland", 
+    "cover": "game-covers/sukenland-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/sunkenland"
+  },
+  {
+    "name": "Team Forest 2",
+    "cover": "game-covers/team-forest-2-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/team-fortress-2"
+  },
+  {
+    "name": "The Forest",
+    "cover": "game-covers/the-forest-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/the-forest"
+  },
+  {
+    "name": "The Isle",
+    "cover": "game-covers/the-isle-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/the-isle"
+  },
+  {
+    "name": "UnTurned",
+    "cover": "game-covers/unturned-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/unturned"
+  },
+  {
+    "name": "V Rising",
+    "cover": "game-covers/v-rising-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/v-rising"
+  },
+  {
+    "name": "Valheim",
+    "cover": "game-covers/valheim-cover.jpg",
+    "price": "4.00",
+    "link": "https://billing.upsurgehost.com/index.php/store/game-servers-pc/valheim"
   }
 ]
